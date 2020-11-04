@@ -1,4 +1,4 @@
-# Hello Everybody!!
+# Hello Everybody...
 
 > My name is Syahrizal, a Web **Designer and Developer** based in Indonesia who specializes in mostly **Front-end Development** with more than five years of experience.
 I am very enthusiastic on **design and build** a responsive website that works properly and user-friendly. I focused on writing accessible **HTML**, using modern **SASS (the CSS pre compiler)**, and writing clean **JavaScript** code.
