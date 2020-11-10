@@ -6,7 +6,10 @@ I am very enthusiastic on **design and build** a responsive website that works p
 Besides, I am also practicing some of popular Front-end Web UI Kits like **Bootstrap, Materialize, UIKit, Bulma, and TailwindCSS** for supporting me in developing some of my project works.
 Now, I am currently attempted to increase my Web Development skills by learning some awesome and useful technologies such as **Node, React, and Vue**.
 
-### Follow Me:
+[![Syahrizal's github stats](https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark)](https://github.com/syahrizaldev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark)](https://github.com/syahrizaldev/)
+
+### Follow Me on:
 
 [![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1]
 [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2]
@@ -15,12 +18,9 @@ Now, I am currently attempted to increase my Web Development skills by learning 
 [![GitHub](https://i.ibb.co/4M7tx9d/Github.png)][5]
 [![CodePen](https://i.ibb.co/93CJXpz/Codepen.png)][6]
 
-[1]: https://www.twitter.com/
-[2]: https://www.instagram.com/
-[3]: https://www.linkedin.com/
-[4]: https://www.dribbble.com/
-[5]: https://www.github.com/
-[6]: https://www.codepen.io/
-
-[![Syahrizal's github stats](https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark)](https://github.com/syahrizaldev/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark)](https://github.com/syahrizaldev/)
+[1]: https://www.twitter.com/syahrizaldev
+[2]: https://www.instagram.com/syahrizaldev
+[3]: https://www.linkedin.com/in/syahrizaldev
+[4]: https://www.dribbble.com/syahrizaldev
+[5]: https://www.github.com/syahrizaldev
+[6]: https://www.codepen.io/syahrizaldev
