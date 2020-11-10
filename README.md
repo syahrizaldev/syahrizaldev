@@ -1,10 +1,12 @@
 # Hello Friends...
 
-> My name is Syahrizal, a Web **Designer and Developer** based in Indonesia who specializes in mostly **Front-end Development** with more than five years of experience.
+My name is Syahrizal, a Web **Designer and Developer** based in Indonesia who specializes in mostly **Front-end Development** with more than five years of experience.
 I am very enthusiastic on **design and build** a responsive website that works properly and user-friendly. I focused on writing accessible **HTML**, using modern **SASS (the CSS pre compiler)**, and writing clean **JavaScript** code.
 
-> Besides, I am also practicing some of popular Front-end Web UI Kits like **Bootstrap, Materialize, UIKit, Bulma, and TailwindCSS** for supporting me in developing some of my project works.
+Besides, I am also practicing some of popular Front-end Web UI Kits like **Bootstrap, Materialize, UIKit, Bulma, and TailwindCSS** for supporting me in developing some of my project works.
 Now, I am currently attempted to increase my Web Development skills by learning some awesome and useful technologies such as **Node, React, and Vue**.
+
+### Follow Me:
 
 [![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1]
 [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2]
