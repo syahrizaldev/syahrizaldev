@@ -7,12 +7,12 @@ Besides, I am also practicing some of popular Front-end Web UI Kits like **Boots
 Now, I am currently attempted to increase my Web Development skills by learning some awesome and useful technologies such as **Node, React, and Vue**.
 
 <a href="https://github.com/syahrizaldev">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark">
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark" >
 </a>
-
 <a href="https://github.com/syahrizaldev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
 </a>
+
 
 ### Follow Me on:
 
