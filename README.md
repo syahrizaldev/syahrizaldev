@@ -6,8 +6,13 @@ I am very enthusiastic on **design and build** a responsive website that works p
 Besides, I am also practicing some of popular Front-end Web UI Kits like **Bootstrap, Materialize, UIKit, Bulma, and TailwindCSS** for supporting me in developing some of my project works.
 Now, I am currently attempted to increase my Web Development skills by learning some awesome and useful technologies such as **Node, React, and Vue**.
 
-[![Syahrizal's github stats](https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark)](https://github.com/syahrizaldev/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark)](https://github.com/syahrizaldev/)
+<a href="https://github.com/syahrizaldev">
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark">
+</a>
+
+<a href="https://github.com/syahrizaldev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
+</a>
 
 ### Follow Me on:
 
