@@ -24,4 +24,15 @@ I am very enthusiastic on **Design and Develop** a responsive website that works
 [5]: https://www.dribbble.com/syahrizaldev
 
 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&color=blue&logo=visual-studio-code)
+![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=blue&logoColor=white&logo=visual-studio-code)
+![](https://img.shields.io/badge/Browser-Google_Chrome-informational?style=flat&color=blue&logoColor=white&logo=google-chrome)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=blue&logoColor=white&logo=html5)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=blue&logoColor=white&logo=css3)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&color=blue&logoColor=white&logo=sass)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=blue&logoColor=white&logo=javascript)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=blue&logoColor=white&logo=node.js)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=blue&logoColor=white&logo=react)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=blue&logoColor=white&logo=vue.js)
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&color=blue&logoColor=white&logo=django)
+![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&color=blue&logoColor=white&logo=npm)
