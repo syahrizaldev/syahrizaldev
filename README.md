@@ -1,5 +1,5 @@
 <div class="illustration">
-  <img src="https://i.ibb.co/mcGg6gc/Freelancer-2.png" width="425" alt="Illustration">
+  <img src="https://i.ibb.co/5KBfqT4/Freelancer.png" width="425" alt="Illustration">
 </div>
 
 
@@ -13,7 +13,7 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=blue&logoColor=white&logo=visual-studio-code)
-![](https://img.shields.io/badge/Browser-Google_Chrome-informational?style=flat&color=blue&logoColor=white&logo=google-chrome)
+![](https://img.shields.io/badge/Browser-Chrome-informational?style=flat&color=blue&logoColor=white&logo=google-chrome)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=blue&logoColor=white&logo=html5)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=blue&logoColor=white&logo=css3)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&color=blue&logoColor=white&logo=sass)
