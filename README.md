@@ -22,16 +22,6 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&color=blue&logoColor=white&logo=netlify)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&color=blue&logoColor=white&logo=vercel)
 
-### My GitHub Stats
-
-<a href="https://github.com/syahrizaldev">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark" >
-</a>
-<a href="https://github.com/syahrizaldev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
-</a>
-
-
 ### Follow Me:
 
 [![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1] [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2] [![LinkedIn](https://i.ibb.co/bB1XFdx/Linkedin.png)][3] [![CodePen](https://i.ibb.co/93CJXpz/Codepen.png)][4] [![Dribbble](https://i.ibb.co/ysFFL7N/Dribbble.png)][5]
@@ -41,3 +31,12 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 [3]: https://www.linkedin.com/in/syahrizaldev
 [4]: https://www.codepen.io/syahrizaldev
 [5]: https://www.dribbble.com/syahrizaldev
+
+### My GitHub Stats
+
+<a href="https://github.com/syahrizaldev">
+  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark" >
+</a>
+<a href="https://github.com/syahrizaldev">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
+</a>
