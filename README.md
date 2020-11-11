@@ -37,14 +37,14 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 
 ### Follow Me:
 
-[![Twitter](https://i.ibb.co/DGWSD1N/Twitter.png)][1]
-[![Instagram](https://i.ibb.co/z5tS9M4/Instagram.png)][2]
-[![LinkedIn](https://i.ibb.co/rfsvqfB/Linkedin.png)][3]
+[![LinkedIn](https://i.ibb.co/rfsvqfB/Linkedin.png)][1]
+[![Twitter](https://i.ibb.co/DGWSD1N/Twitter.png)][2]
+[![Instagram](https://i.ibb.co/z5tS9M4/Instagram.png)][3]
 [![CodePen](https://i.ibb.co/3f7YVPc/Codepens.webp)][4]
 [![Dribbble](https://i.ibb.co/rGP3tpt/Dribbble.png)][5]
 
-[1]: https://www.twitter.com/syahrizaldev
-[2]: https://www.instagram.com/syahrizaldev
-[3]: https://www.linkedin.com/in/syahrizaldev
+[1]: https://www.linkedin.com/in/syahrizaldev
+[2]: https://www.twitter.com/syahrizaldev
+[3]: https://www.instagram.com/syahrizaldev
 [4]: https://www.codepen.io/syahrizaldev
 [5]: https://www.dribbble.com/syahrizaldev
