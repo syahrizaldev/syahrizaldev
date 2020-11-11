@@ -13,11 +13,11 @@ I am very enthusiastic on **design and build** a responsive website that works p
 
 ### Follow Me on:
 
-[![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1] [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2] [![LinkedIn](https://i.ibb.co/bB1XFdx/Linkedin.png)][3] [![Dribbble](https://i.ibb.co/ysFFL7N/Dribbble.png)][4] [![CodePen](https://i.ibb.co/93CJXpz/Codepen.png)][6]
+[![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1] [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2] [![LinkedIn](https://i.ibb.co/bB1XFdx/Linkedin.png)][3] [![CodePen](https://i.ibb.co/93CJXpz/Codepen.png)][4] [![Dribbble](https://i.ibb.co/ysFFL7N/Dribbble.png)][5]
 
 [1]: https://www.twitter.com/syahrizaldev
 [2]: https://www.instagram.com/syahrizaldev
 [3]: https://www.linkedin.com/in/syahrizaldev
-[4]: https://www.dribbble.com/syahrizaldev
-[5]: https://www.github.com/syahrizaldev
-[6]: https://www.codepen.io/syahrizaldev
+[4]: https://www.codepen.io/syahrizaldev
+[5]: https://www.dribbble.com/syahrizaldev
+
