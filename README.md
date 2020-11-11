@@ -7,7 +7,7 @@
 > My name is Syahrizal, a Web **Designer and Developer** from Indonesia who specializes in mostly **Front-End Development**.
 I am very enthusiastic on **Design and Develop** a responsive websites that works properly and user-friendly. I focused on writing accessible **HTML**, using modern **Sass (the CSS pre compiler)**, and writing clean **JavaScript** code. Now, I am currently attempted to increase my Web Development skills by learning and practicing some awesome and useful technologies such as **Node, React, Vue, Django, and MongoDB**.
 
-### My Technologies & Tools:
+### My Technologies:
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=blue&logoColor=white&logo=visual-studio-code)
