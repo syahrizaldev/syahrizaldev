@@ -1,8 +1,6 @@
 <div class="illustration">
-  <img src="https://i.ibb.co/5KBfqT4/Freelancer.png" width="425" alt="Illustration">
+  <img src="https://i.ibb.co/5KBfqT4/Freelancer.png" alt="Illustration">
 </div>
-
-
 
 # Hello Friends...
 
@@ -39,7 +37,11 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 
 ### Follow Me:
 
-[![Twitter](https://i.ibb.co/2hbT6ys/Twitter.png)][1] [![Instagram](https://i.ibb.co/vLLx1tL/Instagram.png)][2] [![LinkedIn](https://i.ibb.co/bB1XFdx/Linkedin.png)][3] [![CodePen](https://i.ibb.co/93CJXpz/Codepen.png)][4] [![Dribbble](https://i.ibb.co/ysFFL7N/Dribbble.png)][5]
+[![Twitter](https://i.ibb.co/DGWSD1N/Twitter.png)][1]
+[![Instagram](https://i.ibb.co/z5tS9M4/Instagram.png)][2]
+[![LinkedIn](https://i.ibb.co/rfsvqfB/Linkedin.png)][3]
+[![CodePen](https://i.ibb.co/3f7YVPc/Codepens.webp)][4]
+[![Dribbble](https://i.ibb.co/rGP3tpt/Dribbble.png)][5]
 
 [1]: https://www.twitter.com/syahrizaldev
 [2]: https://www.instagram.com/syahrizaldev
