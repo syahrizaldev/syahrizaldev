@@ -23,6 +23,7 @@ I am very enthusiastic on **Design and Develop** a responsive website that works
 [4]: https://www.codepen.io/syahrizaldev
 [5]: https://www.dribbble.com/syahrizaldev
 
+### Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=blue&logoColor=white&logo=visual-studio-code)
@@ -35,4 +36,7 @@ I am very enthusiastic on **Design and Develop** a responsive website that works
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=blue&logoColor=white&logo=react)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=blue&logoColor=white&logo=vue.js)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&color=blue&logoColor=white&logo=django)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&color=blue&logoColor=white&logo=npm)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&color=blue&logoColor=white&logo=mongodb)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&color=blue&logoColor=white&logo=github)
+![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&color=blue&logoColor=white&logo=postman)
+![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&color=blue&logoColor=white&logo=netlify)
