@@ -1,13 +1,11 @@
-<div class="illustration">
-  <img src="https://i.ibb.co/5KBfqT4/Freelancer.png" alt="Illustration">
-</div>
+# Hello Everyone...
 
-# Hello Friends...
+My name is Syahrizal, a Web **Designer and Developer** from Indonesia who specializes in mostly **Front-End Development**.
+I am very enthusiastic on **Design and Developing** a responsive, interactive, and user-friendly web applications that working properly.
+I am focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
+And now, I am currently attempted to increase my Web Development skills by learning and practicing some awesome and useful technologies like **Node, React, Vue, and MongoDB**.
 
-> My name is Syahrizal, a Web **Designer and Developer** from Indonesia who specializes in mostly **Front-End Development**.
-I am very enthusiastic on **Design and Develop** a responsive websites that works properly and user-friendly. I focused on writing accessible **HTML**, using modern **Sass (the CSS pre compiler)**, and writing clean **JavaScript** code. Now, I am currently attempted to increase my Web Development skills by learning and practicing some awesome and useful technologies such as **Node, React, Vue, Django, and MongoDB**.
-
-### My Technologies:
+### My Technologies & Tools:
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&color=blue&logoColor=white&logo=visual-studio-code)
@@ -34,17 +32,3 @@ I am very enthusiastic on **Design and Develop** a responsive websites that work
 <a href="https://github.com/syahrizaldev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
 </a>
-
-### Follow Me on:
-
-[![LinkedIn](https://i.ibb.co/rfsvqfB/Linkedin.png)][1]
-[![Twitter](https://i.ibb.co/DGWSD1N/Twitter.png)][2]
-[![Instagram](https://i.ibb.co/z5tS9M4/Instagram.png)][3]
-[![CodePen](https://i.ibb.co/3f7YVPc/Codepens.webp)][4]
-[![Dribbble](https://i.ibb.co/rGP3tpt/Dribbble.png)][5]
-
-[1]: https://www.linkedin.com/in/syahrizaldev
-[2]: https://www.twitter.com/syahrizaldev
-[3]: https://www.instagram.com/syahrizaldev
-[4]: https://www.codepen.io/syahrizaldev
-[5]: https://www.dribbble.com/syahrizaldev
