@@ -17,7 +17,6 @@ And now, I am currently attempted to increase my Web Development skills by learn
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=blue&logoColor=white&logo=node.js)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=blue&logoColor=white&logo=react)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=blue&logoColor=white&logo=vue.js)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&color=blue&logoColor=white&logo=django)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&color=blue&logoColor=white&logo=mongodb)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&color=blue&logoColor=white&logo=github)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&color=blue&logoColor=white&logo=postman)
