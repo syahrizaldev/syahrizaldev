@@ -4,9 +4,9 @@ My name is Syahrizal, a Web **Designer and Developer** based in Indonesia who sp
 
 Besides, I am also practicing some of the popular Front-End User Interface (UI) Kits like **Bootstrap, Material, and TailwindCSS** to supporting myself in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
 
-> ## "Never Give Up & Be Complacent, Always Learning and Practice."
-
 When I'm not coding, I like listening to music and watching some movies, or you will find me outdoor. I love being out in the open that's going for walks, cycling, or doing exercise while looking for some inspiration.
+
+> ## "Never Give Up & Be Complacent, Always Learning and Practice."
 
 ### My Technologies:
 
