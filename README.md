@@ -1,9 +1,10 @@
 # Hello Everyone...
 
-My name is Syahrizal, a Web **Designer and Developer** from Indonesia who specializes in mostly **Front-End Development**.
-I am very enthusiastic on **Design and Developing** a responsive, interactive, and user-friendly web applications that working properly.
-I am focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
-And now, I am currently attempted to increase my Web Development skills by learning and practicing some awesome and useful technologies like **Node, React, Vue, and MongoDB**.
+My name is Syahrizal. a Web **Designer and Developer** based in Indonesia who specializes mostly in **Front-End Development** with more than five years of experience. I am very enthusiastic about **design and building responsive, interactive, and user-friendly web applications** that work properly. I focused on writing accessible **HTML5, using modern CSS3 (including Sass), and writing clean JavaScript code**.
+
+Besides, I am also practicing some of the popular Front-End User Interface (UI) Kits like **Bootstrap, Material, and TailwindCSS** to supporting myself in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
+
+When I'm not coding, I like listening to music and watching some movies, or you will find me outdoor. I love being out in the open that's going for walks, cycling, or doing exercise while looking for some inspiration. I'd like you to check out my works and give me the advice to make me better.
 
 ### My Technologies & Tools:
 
