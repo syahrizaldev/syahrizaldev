@@ -6,6 +6,8 @@ Besides, I am also practicing some of the popular Front-End User Interface (UI) 
 
 When I'm not coding, I like listening to music and watching some movies, or you will find me outdoor. I love being out in the open that's going for walks, cycling, or doing exercise while looking for some inspiration. I'd like you to check out my works and give me the advice to make me better.
 
+> ## "Never Give Up & Be Complacent, Always Learning and Practice."
+
 ### My Technologies:
 
 ![](https://img.shields.io/badge/OS-Windows_10-informational?style=flat&color=blue&logoColor=white&logo=windows)
