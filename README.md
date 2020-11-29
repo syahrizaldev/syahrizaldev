@@ -1,8 +1,25 @@
-# Hello Everyone...
+<h1 align="center">
+  Hi There, I am Syahrizal 👋
+</h1>
 
-My name is Syahrizal, a Web **Designer and Developer** based in Indonesia who specializes mostly in **Front-End Development** with more than five years of experience. I am very enthusiastic about **design and building responsive, interactive, and user-friendly website or web applications** that work properly. I focused on writing accessible **HTML5, using modern CSS3 (Including Sass, Flexbox, Grid), and writing clean JavaScript code**.
+<p align="center">
+  <a href="https://www.linkedin.com/in/syahrizaldev">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/syahrizaldev">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://instagram.com/syahrizaldev">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
+  </a>
+  <a href="https://dev.to/syahrizaldev">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
+</p>
 
-Besides, I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, and TailwindCSS** to supporting me in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
+**a Web Designer and Developer** based in Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building responsive, interactive, and user-friendly website or web applications** that work properly. I focused on writing accessible **HTML5, using modern CSS3 (Including Sass, Flexbox, Grid), and writing clean JavaScript code**.
+
+Besides, I'm also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, and TailwindCSS** to help me in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
 
 ### My GitHub Stats:
 
