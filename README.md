@@ -12,9 +12,10 @@
   <a href="https://instagram.com/syahrizaldev" rel="noopener" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
-  <a href="https://dev.to/syahrizaldev" rel="noopener" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  <a href="https://youtube.com/syahrizaldev" rel="noopener" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+  
 </p>
 
 **A Web Designer and Developer** from Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building responsive, interactive, and user-friendly website or web applications**. I focused on writing accessible **HTML5, using modern CSS3 (Including SASS), and writing clean JavaScript code**.
