@@ -12,7 +12,7 @@
   <a href="https://instagram.com/syahrizaldev" rel="noopener" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
-  <a href="https://youtube.com/syahrizaldev" rel="noopener" target="_blank">
+  <a href="https://youtube.com/c/syahrizaldev" rel="noopener" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
