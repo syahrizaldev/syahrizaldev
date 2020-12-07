@@ -24,9 +24,11 @@ I am also practicing some of popular Front-End User Interface (UI) Kits like **B
 
 ### GitHub Stats:
 
-<a href="https://github.com/syahrizaldev">
-  <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark" >
-</a>
-<a href="https://github.com/syahrizaldev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
-</a>
+<div>
+  <a href="https://github.com/syahrizaldev">
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&show_icons=true&theme=onedark" >
+  </a>
+  <a href="https://github.com/syahrizaldev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&theme=onedark">
+  </a>
+</div>
