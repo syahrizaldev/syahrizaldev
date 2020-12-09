@@ -26,7 +26,7 @@ I am also practicing some of popular Front-End User Interface (UI) Kits like **B
 
 <div>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=450&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=440&theme=dark">
   </a>
   <a href="https://github.com/syahrizaldev">
     <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&hide=contribs&hide_border=true&show_icons=true&theme=dark" >
