@@ -32,8 +32,4 @@ text_color=&
   <a href="https://github.com/syahrizaldev">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=445&theme=dark">
   </a>
-  <br>
-  <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=syahrizaldev&theme=dark&hide_border=true&card_width=445">
-  </a>
 </div>
