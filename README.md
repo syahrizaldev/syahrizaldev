@@ -21,7 +21,7 @@
 
 I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, Tailwind, UIKit** to help me in developing some of my work or projects. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
 
-### About Skills:
+### Skills and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -36,7 +36,7 @@ I am also practicing some of popular Front-End User Interface (UI) Kits like **B
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
 
-### GitHub Stats:
+### My GitHub Stats:
 
 <div>
   <a href="https://github.com/syahrizaldev">
