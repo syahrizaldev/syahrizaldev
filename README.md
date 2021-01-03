@@ -12,14 +12,14 @@
   <a href="https://instagram.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-001632?style=for-the-badge&logo=google&logoColor=white">
+  <a href="https://codepen.io/syahrizaldev">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
 </p>
 
-**A Web Designer and Developer** based in Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building interactive, dynamic, and responsive websites or web applications**. I focused on writing accessible **HTML5, using modern CSS3 (Including SASS), and writing clean JavaScript code**.
+**A Web Designer and Developer** from Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building interactive, dynamic, and fully responsive websites or web applications**. I focused on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, writing clean and reusable **JavaScript** code.
 
-I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, Tailwind, UIKit** to help me in developing some of my work or projects. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Node, React, Vue, and MongoDB**.
+I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, TailwindCSS, and UIKit** to help me in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **NodeJS, ReactJS, VueJS, and MongoDB**.
 
 ### GitHub Stats:
 
