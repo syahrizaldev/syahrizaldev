@@ -12,6 +12,9 @@
   <a href="https://instagram.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
+  <a href="https://dev.to/syahrizaldev">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+  </a>
   <a href="https://codepen.io/syahrizaldev">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
