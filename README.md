@@ -19,7 +19,7 @@
 
 **A Web Designer and Developer** from Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building interactive, dynamic, and fully responsive websites or web applications**. I focused on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, writing clean and reusable **JavaScript** code.
 
-I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, TailwindCSS, and UIKit** to help me in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **NodeJS, ReactJS, VueJS, and MongoDB**.
+I am also practicing some of popular Front-End User Interface (UI) Kits like **Bootstrap, Materialize, TailwindCSS, and UIKit** to help me in developing some of my works. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Vue, Node, React, and MongoDB**.
 
 ### GitHub Stats:
 
