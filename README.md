@@ -25,10 +25,10 @@ I am also practicing some of popular Front-End User Interface (UI) Kits like **B
 
 <div>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide_border=true&show_icons=true&theme=dark" >
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide=stars&hide_border=true&show_icons=true&theme=dark" >
   </a>
   <br>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=6&layout=compact&hide_border=true&card_width=445&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=445&theme=dark">
   </a>
 </div>
