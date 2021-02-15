@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi Everyone, I am Syahrizal
+  Hi Everyone, I'm Syahrizal
 </h1>
 
 <p align="center">
@@ -17,9 +17,9 @@
   </a>
 </p>
 
-**A Web Designer and Developer** from Indonesia who specializes mostly in **Front-End Development**. I am very enthusiastic about **design and building interactive, dynamic, and fully responsive websites or web applications**. I focused on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, writing clean and reusable **JavaScript** code.
+**A Web Design and Development Enthusiasts** from Indonesia who specializes in **Front-End Development**. I am very interested in **design and building interactive, dynamic, and fully-responsive websites or web apps**. I focus on writing accessible **HTML5**, using modern **CSS3 (including Sass)**, and writing clean **JavaScript** code.
 
-I am also practicing some of popular Front-End Kit like **Bootstrap, Materialize, TailwindCSS, and UIKit** to help me in developing some of my projects. Now, I'm currently attempted to increase my Web Development skills by learning and practicing some of powerful and useful technologies such as **Vue, React, Node, and MongoDB**. Thank you and nice to meet you.
+To increasing my Web Skills, I'm learn some of popular Front-End UI Kit like **Bootstrap, TailwindCSS, Materialize, and UIKit** to support me in development. And now, I'm currently learn and practicing some of powerful and useful technologies such as **Vue, React, Node, and MongoDB**. Thank you and nice to meet you.
 
 ### GitHub Stats:
 
