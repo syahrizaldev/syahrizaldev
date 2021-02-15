@@ -19,7 +19,7 @@
 
 A Web Design and Development Enthusiasts from Indonesia who specializes in Front-End. Interested in design and building interactive, user-friendly, and fully-responsive Websites or Web Apps. I focus on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
 
-Currently learning and practicing some of powerful and useful technologies such as **React, Vue, Node, and MongoDB** to increase my Web Development Skills and to more understand how to building dynamic and advance Websites or Web Apps.
+Currently learning and practicing some of powerful and useful technologies like **React, Vue, Node, and MongoDB** to increase my Web Development Skills and to more understand how to building dynamic and advance Websites or Web Apps.
 
 ### GitHub Stats:
 
