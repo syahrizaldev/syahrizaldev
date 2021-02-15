@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi Everyone, I'm Syahrizal
+  Hello Everyone, I am Syahrizal
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
   <a href="https://instagram.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
-  <a href="https://codepen.io/syahrizaldev">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+  <a href="">
+    <img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=google&logoColor=white">
   </a>
 </p>
 
