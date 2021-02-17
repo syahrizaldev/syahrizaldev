@@ -12,14 +12,14 @@
   <a href="https://instagram.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">        
   </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Portfolio-330F63?style=for-the-badge&logo=google&logoColor=white">
+  <a href="https://codepen.io/syahrizaldev">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
 </p>
 
 A Web Design and Development Enthusiasts from Indonesia who specializes in Front-End. Interested in design and building interactive, user-friendly, and fully-responsive Websites or Web Apps. I focus on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
 
-Currently learning and practicing some of powerful and useful technologies like **React, Vue, Node, and MongoDB** to increase my Web Development Skills and to understand how to building more dynamic and advance Websites or Web Apps.
+Currently learning and practicing some of powerful technologies like **Node, React, Vue, and MongoDB** to increase my Web Development Skills and to understand how to building more dynamic and advance Websites or Web Apps.
 
 ### GitHub Stats:
 
