@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/syahrizaldev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://dribbble.com/syahrizaldev">
+    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+  </a>
   <a href="https://codepen.io/syahrizaldev">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
