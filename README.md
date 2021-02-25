@@ -25,7 +25,7 @@ Currently learning and practicing some of powerful technologies like **Node, Rea
 
 <div>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide=stars&hide_border=true&show_icons=true&theme=dark" >
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide_border=true&show_icons=true&theme=dark" >
   </a>
   <br>
   <a href="https://github.com/syahrizaldev">
