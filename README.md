@@ -12,15 +12,13 @@
   <a href="https://www.linkedin.com/in/syahrizaldev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://dribbble.com/syahrizaldev">
-    <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
-  </a>
   <a href="https://codepen.io/syahrizaldev">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
 </p>
 
 A Web Design and Development Enthusiasts from Indonesia who specializes in Front-End Development. Interested in design and building interactive, user-friendly, and fully-responsive Websites or Web Apps. I focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
+
 Currently learning and practicing some of powerful technologies like **Node, React, Vue, GraphQL, MongoDB** and many more to increase my Web Development Skills and to understand properly how to building more dynamic Websites.
 
 ### GitHub Stats:
