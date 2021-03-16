@@ -17,15 +17,15 @@
   </a>
 </p>
 
-A Web Design and Development Enthusiasts from Indonesia who specializes in Front-End Development. Interested in design and building interactive, user-friendly, and fully-responsive Websites or Web Apps. I focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
+Web Design and Development Enthusiasts from Indonesia who specializes in Front-End Development. Interested in design and building interactive, user-friendly, and fully-responsive Websites. I focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
 
-Currently learning and practicing some of powerful technologies like **Node, React, Vue, GraphQL, MongoDB** and many more to increase my Web Development Skills and to understand properly how to building more dynamic Websites.
+Currently focused on learning & practicing some of powerful technologies like **NodeJS, VueJS, ReactJS, GraphQL, and MongoDB** to increase my Web skills and to understand properly how to building more dynamic Websites.
 
 ### GitHub Stats:
 
 <div>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide_border=true&show_icons=true&theme=dark" >
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide=stars&hide_border=true&show_icons=true&theme=dark" >
   </a>
   <br>
   <a href="https://github.com/syahrizaldev">
