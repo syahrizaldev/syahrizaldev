@@ -21,6 +21,8 @@ Web Design & Development Enthusiasts from Indonesia who specializes in Front-End
 
 Currently focused on learning & practicing some of technologies like **NodeJS, VueJS, ReactJS, GraphQL, and MongoDB** to increase my Web skills and to understand properly how to building more powerful Websites.
 
+When I'm not coding, I like listening to music, or you will find me outdoor. I like being out in the open that's going for walks or runs while looking for some inspiration. Thanks and nice to meet you.
+
 ### GitHub Stats:
 
 <div>
