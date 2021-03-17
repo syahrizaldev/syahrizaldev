@@ -17,9 +17,9 @@
   </a>
 </p>
 
-Web Design and Development Enthusiasts from Indonesia who specializes in Front-End Development. Interested in design and building interactive, user-friendly, and fully-responsive Websites. I focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
+Web Design & Development Enthusiasts from Indonesia who specializes in Front-End Development. Interested in learning how to building interactive, dynamic, user-friendly, and fully-responsive Websites. I focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
 
-Currently focused on learning & practicing some of powerful technologies like **NodeJS, VueJS, ReactJS, GraphQL, and MongoDB** to increase my Web skills and to understand properly how to building more dynamic Websites.
+Currently focused on learning & practicing some of technologies like **NodeJS, VueJS, ReactJS, GraphQL, and MongoDB** to increase my Web skills and to understand properly how to building more powerful Websites.
 
 ### GitHub Stats:
 
