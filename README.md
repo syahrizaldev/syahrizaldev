@@ -20,9 +20,9 @@
   </a>
 </p>
 
-Web Development Enthusiasts from Indonesia who specializes mostly in Front-End Development. Interested in learning how to building interactive, dynamic, and user-friendly Websites. I am focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
+Web Development Enthusiasts who specializes mostly in Front-End Development. Interested in learning how to building interactive, dynamic, and user-friendly websites. I am focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
 
-Currently focused in learning & practice some of technologies like **NodeJS, VueJS, ReactJS, GraphQL, and MongoDB** to increase my skills and to understand properly how to building more powerful Websites. Thank you and nice to meet you.
+Currently focused in learning & practicing some of technologies like **NodeJS, VueJS, GraphQL, Firebase, and MongoDB** to increase my development skill and to understand properly how to building more powerful Websites. Thank you and nice to meet you.
 
 ### GitHub Stats:
 
