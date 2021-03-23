@@ -28,7 +28,7 @@ Currently focused in learning & practicing some of technologies like **NodeJS, V
 
 <div>
   <a href="https://github.com/syahrizaldev">
-    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide=stars&hide_border=true&show_icons=true&theme=dark" >
+    <img src="https://github-readme-stats.vercel.app/api?username=syahrizaldev&text_color=4189ff&hide_border=true&show_icons=true&theme=dark" >
   </a>
   <br>
   <a href="https://github.com/syahrizaldev">
