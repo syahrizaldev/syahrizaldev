@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/syahrizaldev">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-5b24ff?style=for-the-badge&logo=google&logoColor=white">
-  </a>
   <a href="https://codepen.io/syahrizaldev">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
