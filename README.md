@@ -17,8 +17,9 @@
   </a>
 </p>
 
-Web Development Enthusiasts who specializes mostly in Front-End Development. Interested in learning how to building interactive, dynamic, and user-friendly websites. I am focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
-Currently focused on learning & practicing some of technologies like **NodeJS, VueJS, GraphQL, Firebase, and MongoDB** to increase my development skill and to understand properly how to building more powerful Websites. Thank you and nice to meet you.
+Web Development Enthusiast who specializes mostly in Front-End Development. Interested in design & building interactive, user-friendly, and dynamic websites. I'm focus on writing accessible **HTML5**, using modern **CSS3 (Including Sass)**, and writing clean **JavaScript** code.
+
+Currently focus on learning & practicing some of technologies like **NodeJS, VueJS, GraphQL, Firebase, and MongoDB** to increase my development skill and to understand properly how to building more powerful Websites.
 
 ### GitHub Stats:
 
