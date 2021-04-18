@@ -30,3 +30,14 @@ Web Development Enthusiast who specializes mostly in **Front-End Development**. 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=445&theme=dark">
   </a>
 </div>
+
+## Pinned Repos:
+
+<div>
+  <a href="https://github.com/syahrizaldev/mini-webprojects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syahrizaldev&repo=mini-webprojects&theme=dark&hide_border=true&show_icons=true">
+  </a>
+  <a href="https://github.com/syahrizaldev/frontend-mentor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=syahrizaldev&repo=frontend-mentor&theme=dark&hide_border=true&show_icons=true">
+</a>
+</div>
