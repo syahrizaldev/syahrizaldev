@@ -2,7 +2,13 @@
   Hello Folks! 👋 I'm Syahrizal
 </h1>
 
-<p align="center">
+
+
+Web Development Enthusiast who specializes mostly in **Front-End Development**. I'm focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code. Currently focus on learning & practicing some of the awesome technologies like **NodeJS**, **VueJS**, **GraphQL**, **MongoDB**, and **Firebase** to understand more how to design & building interactive and dynamic Websites or Web Apps.
+
+### Let's Connect:
+
+<p align="left">
   <a href="https://twitter.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -17,11 +23,7 @@
   </a>
 </p>
 
-Web Development Enthusiast who specializes mostly in **Front-End Development**. I'm focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code. Currently focus on learning & practicing some of the awesome technologies like **NodeJS**, **VueJS**, **GraphQL**, **MongoDB**, and **Firebase** to understand more how to design & building interactive and dynamic Websites or Web Apps.
-
-### Let's Connect 🔗
-
-### GitHub Stats ⚡
+### GitHub Stats:
 
 <div>
   <a href="https://github.com/syahrizaldev">
