@@ -32,5 +32,3 @@ Web Development Enthusiast who specializes mostly in **Front-End Development**. 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syahrizaldev&langs_count=7&layout=compact&hide_border=true&card_width=445&theme=dark">
   </a>
 </div>
-
-### My Toolbox:
