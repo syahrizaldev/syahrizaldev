@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://codepen.io/syahrizaldev">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white">
+    <img src="https://img.shields.io/badge/CodePen-010101?style=for-the-badge&logo=codepen&logoColor=white">
   </a>
 </p>
 
