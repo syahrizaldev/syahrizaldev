@@ -17,8 +17,6 @@
   </a>
 </p>
 
-![Repository Banner](./showcase.png)
-
 Web Development Enthusiast who specializes mostly in **Front-End Development**. I'm focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
 Currently focus on learning & practicing some of the awesome technologies like **NodeJS**, **VueJS**, **GraphQL**, **MongoDB**, and **Firebase** to understand more how to design & building interactive and dynamic Websites or Web Apps.
 
