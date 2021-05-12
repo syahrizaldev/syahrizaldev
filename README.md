@@ -18,7 +18,7 @@
 </div>
 
 A Web Development Enthusiast who specializes mostly in **Front-End Development**. Focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
-And now currently focus on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to design & building more interactive and dynamic Websites.
+And currently focus on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to design & building more interactive and dynamic Websites.
 
 ## GitHub Stats
 
