@@ -1,8 +1,8 @@
-<h1 align="center">
-  Hello There! 👋 I'm Syahrizal
-</h1>
-
-<p align="center">
+<div align="center">
+  <img width="125px" src="./Avatar.png" align="center" alt="Syahrizaldev Avatar">
+  <h1 align="center">Hello There! 👋 I am Syahrizal</h1>
+  
+  <p align="center">
   <a href="https://twitter.com/syahrizaldev">
     <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+</div>
 
 A Web Development Enthusiast who specializes mostly in **Front-End Development**. Focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
 And now currently focus on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to design & building more interactive and dynamic Websites.
