@@ -17,8 +17,8 @@
   </a>
 </p>
 
-Web Development Enthusiast who specializes mostly in **Front-End Development**. I'm focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
-Currently focus on learning & practicing some of the awesome technologies like **NodeJS**, **VueJS**, **GraphQL**, **MongoDB**, and **Firebase** to understand more how to design & building interactive and dynamic Websites or Web Apps.
+A Web Development Enthusiast who specializes mostly in **Front-End Development**. Focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
+And now currently focus on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to design & building more interactive and dynamic Websites.
 
 ---
 
