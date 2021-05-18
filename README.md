@@ -1,6 +1,5 @@
 <div align="center">
-  <img align="center" width="125px" src="./Brand.png" alt="Syahrizaldev Avatar">
-  <br><br>
+  <h1 align="center">Hello There! 👋 I'm Syahrizal</h1>
   <p align="center">
     <a href="https://twitter.com/syahrizaldev">
       <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -16,8 +15,6 @@
     </a>
   </p>
 </div>
-
-<h1 align="center">Hello There! 👋 I'm Syahrizal</h1>
 
 A Web Development Enthusiast who specializes mostly in **Front-End Development**. Focused on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
 And currently focus on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to design & building more interactive and dynamic Websites.
