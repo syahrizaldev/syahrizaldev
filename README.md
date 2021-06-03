@@ -4,20 +4,17 @@
     <a href="https://twitter.com/syahrizaldev">
       <img src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a href="https://instagram.com/syahrizaldev">
-      <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"> 
-    </a>
     <a href="https://linkedin.com/in/syahrizaldev">
       <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://dribbble.com/syahrizaldev">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
+    <a href="https://instagram.com/syahrizaldev">
+      <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"> 
     </a>
   </p>
 </div>
 
-Web Development & Freelance Enthusiast who specializes mostly in Front-End Development. Focus on writing accessible **HTML5**, using modern **CSS3 (Including SASS)**, and writing clean **JavaScript** code.
-Currently still on learning some of the awesome technologies like **MongoDB**, **ExpressJS**, **VueJS**, **NodeJS**, **GraphQL**, and **Firebase** to understand how to building more interactive and dynamic Websites.
+Front-End Web Developer & Freelance Enthusiast. Focused in writing accessible **HTML**, using modern **CSS (including SASS / SCSS)**, and writing clean **JavaScript** code.
+Currently still on learning and practice some of the awesome technologies like **MongoDB**, **Express**, **Vue**, **Node**, **GraphQL**, and **Firebase** to understand more how to building interactive & dynamic Websites.
 
 
 ## GitHub Stats
