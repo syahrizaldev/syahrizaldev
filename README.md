@@ -13,7 +13,7 @@
   </p>
 </div>
 
-Front-End Web Developer & Freelance Enthusiast. Focused in writing accessible **HTML**, using modern **CSS (including SASS / SCSS)**, and writing clean **JavaScript** code.
+Front-End Web Developer & Freelance Enthusiast. Focused in writing accessible **HTML**, using modern **CSS (Including SASS)**, and writing clean **JavaScript** code.
 Currently still on learning and practice some of the awesome technologies like **MongoDB**, **Express**, **Vue**, **Node**, **GraphQL**, and **Firebase** to understand more how to building interactive & dynamic Websites.
 
 
